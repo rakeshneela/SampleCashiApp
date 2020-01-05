@@ -1,0 +1,22 @@
+[
+	{
+		"billProvider": "CFE",
+		"accountNumber": "4222422244",
+		"isEnabled": true
+	},
+	{
+		"billProvider": "AT&T",
+		"accountNumber": "8182530961",
+		"isEnabled": true
+	},
+	{
+		"billProvider": "SKY",
+		"accountNumber": "501099487420",
+		"isEnabled": false
+	},
+	{
+                "billProvider": "Cablevisión Coahuila Multimedios",
+                "accountNumber": "0000075094070915000259008",
+                "isEnabled": false
+        }
+]
